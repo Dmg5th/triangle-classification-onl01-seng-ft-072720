@@ -7,6 +7,6 @@ class Triangle
   end 
   
   def kind 
-    
+    if self
   
 end
