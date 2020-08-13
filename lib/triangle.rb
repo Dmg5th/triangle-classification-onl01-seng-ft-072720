@@ -20,7 +20,8 @@ end
 end
 
 class TriangleError < StandardError
-end
+    # triangle error code
+  end
 
 # def triangle(a, b, c)
 #   sides = [a,b,c].sort
